@@ -1,2 +1,1 @@
-﻿git config --system --unset credential.helper
-打死大是大非
+﻿'只要去专研，一切都会变得简单'
