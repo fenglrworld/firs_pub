@@ -1,2 +1,2 @@
-git config --system --unset credential.helper
-打死大是大非
+锘縢it config --system --unset credential.helper
+鎵撴澶ф槸澶ч潪
